@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Software Development
 - 📫 How to reach me: mdirshaddev+snowbeam@gmail.com
 - ⚡ Fun fact: Eat, Code, Sleep (repeat)
+
+## Note
+
+Due to some specific reasons codes are in local repository only. Not in the remote repository of github once they are like in ready planned state to move with automation then only will push in this place.
